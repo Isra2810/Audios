@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reproducir Audio</title>
+</head>
+<body>
+    <audio controls autoplay>
+        <source src="C:\Users\Amado Israel\Downloads\Prueba1_2.mp3" type="audio/mpeg">
+        Tu navegador no soporta audio HTML5.
+    </audio>
+</body>
+</html>
